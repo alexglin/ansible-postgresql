@@ -1,2 +1,6 @@
-[all]
-127.0.0.1
+[home]
+
+hassio ansible_host=77.66.177.113
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3

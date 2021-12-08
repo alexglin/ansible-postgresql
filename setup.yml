@@ -1,6 +1,6 @@
 ---
 - name: 'PostgreSQL Playbook'
-  hosts: postgresql_nodes
+  hosts: home
   user: root
 
   roles:
